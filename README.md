@@ -1,22 +1,31 @@
 `[daroch@archlinux ~]$ ` whoami
 
-> Mukul Daroch
+```java
+Mukul Daroch
+```
 
 `[daroch@archlinux ~]$` cat  Welcome.md
 
-> **Hi Welcome to my profile**
->
-> Well you weren’t supposed to be here. But now that you are, we might as well pretend this was intentional.
+```java
+Hi Welcome to my profile
+
+Well you weren’t supposed to be here. But now that you are, we might as well pretend this was intentional.
+```
 
 `[daroch@archlinux ~]$` cat  AboutMe.md
-> **About Me**
->
-> Backend-focused developer interested in building reliable and scalable systems.
 
-`[daroch@archlinux ~]$` ls  Interests/
-> backend  distributed-systems  linux networking
+```java
+About Me
+
+Backend-focused developer interested in building reliable and scalable systems.
+```
 
 <!--
+`[daroch@archlinux ~]$` ls  Interests/
+```java
+ backend   distributed-systems   linux  networking
+```
+
 `[daroch@archlinux ~]$` cat FunFacts.md
 > **Fun Facts**
 > 
