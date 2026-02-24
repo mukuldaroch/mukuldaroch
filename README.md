@@ -33,5 +33,5 @@ Backend-focused developer interested in building reliable and scalable systems.
 -->
 
 `[daroch@archlinux ~]$` sudo  journalctl  -t  daroch
-> Feb 24 19:30:27 archlinux daroch[36342]: Thanks for visiting. Your curiosity has been logged.
+> mo d H:m:s archlinux daroch[36342]: **Thanks for visiting. Your curiosity has been logged**
 
