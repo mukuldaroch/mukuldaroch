@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**mukuldaroch/mukuldaroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile
 
-Here are some ideas to get you started:
+You weren’t supposed to be here. But now that you are, we might as well pretend this was intentional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Backend-focused developer interested in building reliable and scalable systems.
+
+Currently working with:
+
+* Java & Spring Boot
+* REST APIs and backend architecture
+
+I care about clean design, performance, and understanding how systems actually work under the hood.
+
+## Fun Facts
+
+* I spend more time fixing bugs than creating features.
+* 
+---
+
+Thanks for visiting. Your curiosity has been logged.
